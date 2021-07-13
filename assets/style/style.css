@@ -1,0 +1,33 @@
+.navbar{
+  background-color: #FFF !important;
+}
+.navbar .navbar-brand{
+  color: #ff3b00;
+}
+.navbar .navbar-brand:hover{
+  color: #ff9300;
+}
+.navbar .navbar-nav li a {
+  color: #ff3b00 !important;
+}
+.navbar .navbar-nav :hover {
+  color: #ff9300 !important;
+}
+
+ /* #val {
+  background-color: cadetblue;
+  border-radius: 15px;
+  text-align: center;
+  padding: 20px;
+  width: 20%;
+  height: 30px;
+} */
+
+/* .container .card .card-body h5{
+  background-color: cadetblue;
+  border-radius: 15px;
+  text-align: center;
+  padding: 20px;
+  width: 20%;
+  height: 30px;
+} */
